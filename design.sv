@@ -1,0 +1,6 @@
+//`include "mipstest.sv"
+`include "mipstop.sv"
+`include "mipsmem.sv"
+`include "mips.sv"
+`include "mipsparts.sv"
+`include "alu.sv"
